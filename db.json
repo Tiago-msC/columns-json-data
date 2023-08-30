@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "property": "chnfe",
+      "label": "Chave da NF-e"
+    },
+    {
+      "property": "nfa_serial",
+      "label": "Número Serial"
+    },
+    {
+      "property": "ide_cuf",
+      "label": "Código da UF"
+    },
+    {
+      "property": "ide_natop",
+      "label": "Natureza da Operação"
+    },
+    {
+      "property": "ide_mod",
+      "label": "Modelo"
+    },
+    {
+      "property": "ide_serie",
+      "label": "Série"
+    },
+    {
+      "property": "ide_nnf",
+      "label": "Número da NF-e"
+    },
+    {
+      "property": "ide_demi",
+      "label": "Data de Emissão"
+    },
+    {
+      "property": "ide_tpnf",
+      "label": "Tipo de NF"
+    },
+    {
+      "property": "emit_xnome",
+      "label": "Nome do Emitente"
+    }
+  ]
+}
